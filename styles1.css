@@ -1,0 +1,245 @@
+body {
+  background-color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #963030;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li.headerstuff {
+    display: block;
+    float: left;
+    width: 16%;
+    font-size: 30px;
+    border: 2px solid #963030;
+    border-radius: 5px;
+    text-align: center;
+}
+div.homepagelink {
+  height: 50px;
+  text-align: center;
+  position: relative;
+  display: inline;
+  z-index: auto;
+}
+div.header1 {
+  height: 50px;
+  text-align: center;
+  position: relative;
+  display: inline;
+  z-index: auto;
+}
+div.header2 {
+  height: 50px;
+  text-align: center;
+  position: relative;
+  display: inline;
+  z-index: auto;
+}
+div.header3 {
+  height: 50px;
+  text-align: center;
+  position: relative;
+  display: inline;
+  z-index: auto;
+}
+div.header4 {
+  height: 50px;
+  text-align: center;
+  position: relative;
+  display: inline;
+  z-index: auto;
+}
+div.header5 {
+  height: 50px;
+  text-align: center;
+  position: relative;
+  display: inline;
+  z-index: auto;
+}
+div#homepage {
+  text-align: center;
+  width: 60%;
+  margin-left: 18%;
+}
+img#img_about_1 {
+  height:200px;
+  margin-left: 37%;
+}
+li div a {
+  text-decoration: underline;
+  color: #963030;
+  display: inline;
+  width: 60px;
+}
+li div a:hover {
+  text-decoration: underline;
+  color: #309696;
+}
+h2 {
+  text-align: center;
+  color: #963030;
+}
+p#intro-hmpg {
+  text-align: center;
+  color: #963030;
+}
+p a {
+  text-decoration: none;
+  color: #963030;
+}
+div#titel_about {
+  color: #963030;
+  text-align: center;
+}
+div#wat_is {
+  height: auto;
+  width: 75%;
+  text-align: center;
+  position: relative;
+  margin: auto;
+}
+div#wanneer {
+  height: auto;
+  width: 75%;
+  text-align: center;
+  position: relative;
+  margin: auto;
+}
+div#genres {
+  height: auto;
+  width: 75%;
+  text-align: center;
+  position: relative;
+  margin: auto;
+}
+div#vergelijkbaar {
+  height: auto;
+  width: 75%;
+  text-align: center;
+  position: relative;
+  margin: auto;
+}
+img.plaatjelove {
+  height: 150px;
+}
+li div h3 {
+  font-size: 20px;
+}
+li div p {
+  font-size: 20px;
+}
+li div ul li {
+  font-size: 20px;
+}
+li.geen_opmaak {
+  border-style: none;
+}
+ul.p2 {
+  list-style-type: circle;
+}
+li.pagina2over {
+  margin-top: 10px;
+  display: block;
+  clear: both;
+  float: inherit;
+}
+div#p1overhardstyle {
+  text-align: center;
+  width: 70%;
+  margin-left: 15%;
+}
+li div ul {
+  list-style-type: none;
+}
+img.img_artists {
+  height: 200px;
+  width: auto;
+}
+div#list_artist {
+  text-align: center;
+  width: 60%;
+  margin-left: 18%;
+}
+div#header {
+  text-align: center;
+}
+div#header_artist {
+  text-align: center;
+  margin-left: -65px;
+}
+a.utubelinks {
+  text-decoration: underline;
+  color: #277538;
+}
+ul#festivallijst {
+  text-align: center;
+  list-style-type: none;
+}
+div#festivals{
+  text-align: center;
+  width: 60%;
+  margin-left: 20%;
+}
+h1#titel_festivals {
+  text-align: center;
+}
+img.fotofestivals {
+  height: 200px;
+  width: auto;
+}
+a.linkanthems {
+  text-decoration: none;
+}
+h1#overmijheader {
+  text-align: center;
+}
+table#tabel {
+  border: 1px solid #963030;
+  text-align: center;
+  margin-left: 25%;
+}
+a.poep {
+  text-decoration: underline;
+  color: #277538;
+  text-align: center;
+}
+div#blokover {
+  text-align: center;
+  width: 60%;
+  margin-left: 20%;
+}
+div#paginastromingen {
+  text-align: center;
+  width: 60%;
+  margin-left: 20%;
+
+}
+p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+div.utubevids {
+  display: inline;
+  margin-left: 15%;
+  margin-bottom: 40px;
+}
+iframe.videooo {
+  width: 200px;
+  height: 113px;
+}
+iframe.videooo : hover {
+  height: 560px;
+  width: 315px;
+  display: block;
+}
+div.utubevids : hover {
+  height: 560px;
+  width: 315px;
+  display: block;
+}
