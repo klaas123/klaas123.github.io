@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Official Homepage</title>
+<link rel="stylesheet" type="text/css" href="styles1.css">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+<div class="header">
+<ul>
+  <li class="headerstuff">
+<div class="homepagelink">
+  <a href="website_informatica.html">Homepage</a>
+</div>
+</li>
+<li class="headerstuff">
+<div class="header1">
+  <a href="over_hardstyle1.html">Over Hardstyle</a>
+</div>
+</li>
+<li class="headerstuff">
+<div class="header2">
+  <a href="stromingen.html">Stromingen</a>
+</div>
+</li>
+<li class="headerstuff">
+<div class="header3">
+  <a href="artiesten.html">Artiesten</a>
+</div>
+</li>
+<li class="headerstuff">
+<div class="header4">
+  <a href="festivals.html">Festivals</a>
+</div>
+</li>
+<li class="headerstuff">
+<div class="header5">
+  <a href="over_ons.html">Over Mij</a>
+</div>
+</li>
+</div>
+<br><br>
+<div id="homepage">
+  <h2>Homepage</h2>
+  <p id="intro-hmpg">Hey, welkom op deze site. Hier kan je heel veel informatie vinden over Hardstyle. Als je nog niet met Hardstyle bekend bent, dan is het handig om eerst iets te lezen <a href="over_hardstyle1.html">over Hardstyle</a>. Verder kan je op deze site informatie vinden over verschillende <a href="">vormen van Hardstyle</a>, je kan informatie vinden over <a href="artiesten.html">artiesten</a> en je kan informatie vinden over <a href="festivals.html">festivals</a>.</p>
+</div>
+<img src="https://i.ytimg.com/vi/EMwxu9oN1Dc/maxresdefault.jpg" id="img_about_1">
+</body>
+</html>
