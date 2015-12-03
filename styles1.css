@@ -2,6 +2,7 @@ body {
   background-color: #000000;
   font-family: Arial, Helvetica, sans-serif;
   color: #963030;
+  font-size: 20px;
 }
 ul {
     list-style-type: none;
@@ -172,6 +173,10 @@ ul#festivallijst {
   text-align: center;
   list-style-type: none;
 }
+ul.lijstartiestenstromingen {
+  text-align: center;
+
+}
 div#festivals{
   text-align: center;
   width: 60%;
@@ -209,10 +214,6 @@ div#paginastromingen {
   text-align: center;
   width: 60%;
   margin-left: 20%;
-}
-ul.lijstartiestenstromingen {
-  text-align: center;
-}
 }
 p {
   text-align: center;
