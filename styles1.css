@@ -2,12 +2,9 @@ body {
   background-color: #000000;
   font-family: Arial, Helvetica, sans-serif;
   color: #963030;
-
 }
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
 }
 li.headerstuff {
     display: block;
@@ -75,7 +72,7 @@ li div a {
   display: inline;
   width: 60px;
 }
-li div a:hover {
+li div a : hover {
   text-decoration: underline;
   color: #309696;
 }
@@ -167,10 +164,6 @@ div#list_artist {
 div#header {
   text-align: center;
 }
-div#header_artist {
-  text-align: center;
-  margin-left: -65px;
-}
 a.utubelinks {
   text-decoration: underline;
   color: #277538;
@@ -202,7 +195,7 @@ table#tabel {
   text-align: center;
   margin-left: 25%;
 }
-a.poep {
+a.iets {
   text-decoration: underline;
   color: #277538;
   text-align: center;
@@ -216,7 +209,6 @@ div#paginastromingen {
   text-align: center;
   width: 60%;
   margin-left: 20%;
-
 }
 p {
   text-align: center;
@@ -224,14 +216,18 @@ p {
 h1 {
   text-align: center;
 }
+a#linkterug {
+  text-decoration: underline;
+  color: #277538;
+}
 div.utubevids {
   display: inline;
-  margin-left: 15%;
-  margin-bottom: 40px;
 }
 iframe.videooo {
   width: 200px;
   height: 113px;
+  margin-left:12%;
+  margin-bottom: 40px;
 }
 iframe.videooo : hover {
   height: 560px;
@@ -242,4 +238,23 @@ div.utubevids : hover {
   height: 560px;
   width: 315px;
   display: block;
+}
+.videooo {
+    width: 315px;
+    height: 560px;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+}
+.transition {
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -o-transform: scale(2);
+    transform: scale(2);
+}
+div#videos {
+  width: 75%;
+  margin-left: 8%;
+  text-align: center;
 }
